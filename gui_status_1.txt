@@ -1,0 +1,2 @@
+CHECK         -        BACK     EXIT     CANCEL
+(checkmark)   (save)   (back)   (exit)   (cancel)
